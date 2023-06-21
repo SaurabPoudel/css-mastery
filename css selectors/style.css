@@ -1,0 +1,66 @@
+/* /* h1 {
+  color: gray;
+}
+
+h2 {
+  color: gray;
+} */
+/* Grouping */
+/* h1,
+h2 {
+  color: gray;
+  padding: 0.5;
+  border: 1px solid black;
+  font-family: sans-serif;
+}
+.warning {
+  color: red;
+}
+
+p.warning {
+  font-weight: bold;
+}
+.warning.help {
+  background: greenyellow;
+}
+span.warning {
+  font-style: italic;
+}
+
+#luffy {
+  background: red;
+  color: blue;
+}
+
+#zoro {
+  background: green;
+  color: brown;
+}
+
+p[class] {
+  color: silver;
+}
+
+img[alt="nabhako photo k bowla"] {
+  border: 3px solid red;
+}
+
+*[title] {
+  font-weight: bold;
+}
+
+*[class|="btn"] {
+  border-radius: 5px;
+}
+
+*[class*="small"] {
+  padding: 2;
+}
+
+a[href^="https:"] {
+  background: green;
+}
+
+a[href^="http:"] {
+  background: red;
+} */
